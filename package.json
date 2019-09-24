@@ -1,0 +1,31 @@
+{
+  "name": "herokusample",
+  "version": "1.0.0",
+  "description": "a heroku sample",
+  "main": "index.js",
+  "dependencies": {
+    "balanced": "^0.0.0",
+    "express": "^4.17.1",
+    "match": "^1.2.9"
+  },
+  "engines": {
+    "node": "10.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romeo-art/HerokuSample.git"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "romeo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romeo-art/HerokuSample/issues"
+  },
+  "homepage": "https://github.com/romeo-art/HerokuSample#readme"
+}
